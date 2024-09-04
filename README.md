@@ -1,2 +1,1 @@
 # airbnb-demo
-Using angular
